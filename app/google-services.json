@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087504136622",
+    "project_id": "weather-now-3ea93",
+    "storage_bucket": "weather-now-3ea93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087504136622:android:c11f40bbbaa240fed5f03f",
+        "android_client_info": {
+          "package_name": "com.cscorner.task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOQz46xnUd5Ua4loZZnvWw9qkzD46DXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
